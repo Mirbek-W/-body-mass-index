@@ -5,7 +5,7 @@ from tkinter import font
 root=Tk()
 root.geometry("350x380")
 root.resizable(width=False, height=False)
-root.title("Индекс массы тела")
+root.title("Индекс массы тела -W")
 root.iconbitmap("logo.ico")
 
 
